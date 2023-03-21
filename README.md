@@ -10,9 +10,8 @@
 
 <div align="center">
     <a href="https://github.com/TStavale">
-    <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=TStavale&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>        
-    <img height="200px" width="400px" src="https://streak-stats.demolab.com?user=TStavale&theme=neon-dark&locale=pt-br&date_format=j%20M%5B%20Y%5D">
-    <img height="250px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TStavale&theme=dark"/>
+    <img height="200px" width="800px" src="https://github-readme-stats.vercel.app/api?username=TStavale&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>        
+    <img height="250px" width="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TStavale&theme=dark"/>
 </div>
   <br>
 <h2>Principais Habilidade</h2>
